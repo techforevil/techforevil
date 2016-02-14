@@ -7,6 +7,10 @@ color: white;
 
 h1 { color: white; }
 
+h2 { font-family: "Times New Roman"; color: white; }
+
 a {
 border: solid 2px;
 }
+
+iframe { width:100%; padding:0; border:0; height:600px; }
