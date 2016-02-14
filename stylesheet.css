@@ -2,6 +2,11 @@ body { font-family: "Comic Sans MS";
 background-image: url("img/stars.gif");
 background-color: black;
 text-align: center;
+color: white;
 }
 
 h1 { color: white; }
+
+a {
+border: solid 2px;
+}
