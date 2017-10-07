@@ -11,6 +11,17 @@ h2 { font-family: "Times New Roman"; color: white; }
 
 a {
 border: solid 2px;
+color: red;
+}
+
+a:hover {
+border: solid 3px;
+color: yellow;
+}
+
+a:visited {
+border: solid 1px;
+color: green;
 }
 
 iframe { width:100%; padding:0; border:0; height:600px; }
